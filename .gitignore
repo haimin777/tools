@@ -1,0 +1,13 @@
+.idea
+.venv
+notebooks
+.DS_Store
+keras_ocr.egg-info
+build
+_build
+dist
+__pycache__
+versioneer.pyc
+venv
+
+.ipynb_checkpoints
